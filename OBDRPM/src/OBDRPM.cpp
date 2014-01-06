@@ -5,8 +5,8 @@
  *      Author: derek
  */
 
-#include <OBD/OBD.h>
-#include <HD7279A/HD7279A.h>
+#include <OBD.h>
+#include <HD7279A.h>
 
 OBD* obd;
 HD7279A* led;

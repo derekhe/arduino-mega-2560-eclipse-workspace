@@ -1,0 +1,14 @@
+avrtarget/ClockFrequency=16000000
+avrtarget/ExtRAMSize=0
+avrtarget/ExtendedRAM=false
+avrtarget/MCUType=atmega2560
+avrtarget/UseEEPROM=false
+avrtarget/UseExtendedRAMforHeap=true
+avrtarget/de.innot.avreclipse.configuration.lib.debug.1356971340.767301748/ClockFrequency=16000000
+avrtarget/de.innot.avreclipse.configuration.lib.debug.1356971340.767301748/ExtRAMSize=0
+avrtarget/de.innot.avreclipse.configuration.lib.debug.1356971340.767301748/ExtendedRAM=false
+avrtarget/de.innot.avreclipse.configuration.lib.debug.1356971340.767301748/MCUType=atmega2560
+avrtarget/de.innot.avreclipse.configuration.lib.debug.1356971340.767301748/UseEEPROM=false
+avrtarget/de.innot.avreclipse.configuration.lib.debug.1356971340.767301748/UseExtendedRAMforHeap=true
+avrtarget/perConfig=true
+eclipse.preferences.version=1
